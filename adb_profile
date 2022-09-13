@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export HOME='/home/root'
+. /etc/profile
+alias ls='ls --color=no'
